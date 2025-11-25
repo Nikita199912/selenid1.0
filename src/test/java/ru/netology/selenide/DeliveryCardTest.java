@@ -30,7 +30,7 @@ public class DeliveryCardTest {
         $("[data-test-id='date'] input")
                 .sendKeys(Keys.chord(Keys.CONTROL, "a"), Keys.BACK_SPACE);
         $("[data-test-id='date'] input").setValue(planningDate);
-        $("[data-test-id='name'] input").setValue("Евгений Степанович");
+        $("[data-test-id='name'] input").setValue("Степанович Евгений");
         $("[data-test-id='phone'] input").setValue("+89092064650");
         $("[data-test-id='agreement'] .checkbox__box").click();
         $$(".button").find(Condition.visible).click();
