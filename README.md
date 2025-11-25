@@ -1,1 +1,2 @@
 ### Проект: Тесты для формы "Заказ доставки карты"
+[![Java CI with Gradle](https://github.com/Nikita199912/selenid1.0/actions/workflows/ci.yml/badge.svg)](https://github.com/Nikita199912/selenid1.0/actions/workflows/ci.yml)
